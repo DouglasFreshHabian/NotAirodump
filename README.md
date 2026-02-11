@@ -118,6 +118,14 @@ MIT License — feel free to fork, modify, and adapt for demos or educational co
 
 ---
 
+### ☕ Support This Project
+
+If **NotAirodump™** helps you or your terminal, consider supporting ongoing development:
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dfreshZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
+
 <!-- 
  _____              _       _____                        _          
 |  ___| __ ___  ___| |__   |  ___|__  _ __ ___ _ __  ___(_) ___ ___ ™️
