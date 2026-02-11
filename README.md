@@ -117,3 +117,11 @@ It does **not** perform real wireless operations and should not be used to misre
 MIT License — feel free to fork, modify, and adapt for demos or educational content.
 
 ---
+
+<!-- 
+ _____              _       _____                        _          
+|  ___| __ ___  ___| |__   |  ___|__  _ __ ___ _ __  ___(_) ___ ___ ™️
+| |_ | '__/ _ \/ __| '_ \  | |_ / _ \| '__/ _ \ '_ \/ __| |/ __/ __|
+|  _|| | |  __/\__ \ | | | |  _| (_) | | |  __/ | | \__ \ | (__\__ \
+|_|  |_|  \___||___/_| |_| |_|  \___/|_|  \___|_| |_|___/_|\___|___/
+        freshforensicsllc@tuta.com Fresh Forensics, LLC 2026 -->
