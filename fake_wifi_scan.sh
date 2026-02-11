@@ -76,9 +76,12 @@ SSIDS=(
   "ATT-WIFI"
   "HomeLab"
   "Free_Public_WiFi"
+  "FBI_Van"
+  "HoneyPot"
+  "GetHackedHere"
 )
 
-ENCRYPTION=("WPA2" "WPA3" "WPA2/WPA3")
+ENCRYPTION=("WPA2" "WPA3")
 PROBES=("DIRECT-XY" "HP-Setup" "Chromecast" "AndroidAP" "NETGEAR")
 
 # ------------------ Helpers ------------------
